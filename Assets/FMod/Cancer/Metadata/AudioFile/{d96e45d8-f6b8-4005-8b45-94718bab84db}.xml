@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{d96e45d8-f6b8-4005-8b45-94718bab84db}">
+        <property name="assetPath">
+            <value>33245__ljudman__grenade.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>4.979520833333333</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{ce4fd753-2fe8-43b9-acc4-c2512078dfb6}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{d4eb02d6-77e5-47e0-91b4-f50bd586a7cb}">
+        <property name="assetPath">
+            <value>35643__sandyrb__usat-bomb.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>5.6445578231292517</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{ce4fd753-2fe8-43b9-acc4-c2512078dfb6}</destination>
+        </relationship>
+    </object>
+</objects>

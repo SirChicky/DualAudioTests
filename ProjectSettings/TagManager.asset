@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - buncing
+  - FxTemporaire
+  - Sword
+  - IdleSword
+  - Bullet
+  - Enemy
+  - BulletBack
+  - BulletDetected
+  - BulletDetector
+  - Detection
+  - LevelBorder
+  - BackBullet
+  - BulletDetected2
+  - BulletDetected3
+  - BackSlash
+  - Soil
+  - Super
+  - Ninja
+  - AttrapeMouche
+  - VoidIdleSword
+  - VoidSword
+  - SwordBack
+  - Void
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - buncing
+  - Player
+  - Sword
+  - Ninja
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
